@@ -1,4 +1,8 @@
-## Hi there 👋
+## About me
+
+Information Technology student concentrating in Cybersecurity
+
+## Projects
 
 <!--
 **tfracyon/tfracyon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
