@@ -6,6 +6,7 @@ Information Technology student concentrating in Cybersecurity
 ## Collection of collegiate and personal ongoing cybersecurity projects and reports
 
 # Collegiate 
+uploading will commense once licenced gmu materials are properly removed/formatted
 
 ### LAMP stack documentation
 
