@@ -7,47 +7,47 @@ Information Technology student concentrating in Cybersecurity
 
 # Collegiate 
 
-## LAMP stack documentation
+### LAMP stack documentation
 
-## Stuxnet
+### Stuxnet
 
-## Malware analysis
+### Malware analysis
 
-## Vulnribility Assesment
+### Vulnribility Assesment
 
-## Risk Management Framework
+### Risk Management Framework
 
-## Access Controls
+### Access Controls
 
-## Cryptogrophy
+### Cryptogrophy
 
-## Digital Media Analysis
+### Digital Media Analysis
 
-## Email Header Analysis
+### Email Header Analysis
 
-## Cyber Threat Intelligence
+### Cyber Threat Intelligence
 
-## NMAP/Nessus project
+### NMAP/Nessus project
 
-## Network Traffic Analysis
+### Network Traffic Analysis
 
-## ATP34 documents
+### ATP34 documents
 
-## YARA
+### YARA
 
 
 # Personal
-## Darkhourse Malware analysis
+### Darkhourse Malware analysis
 
-## Stryker vendor analysis
+### Stryker vendor analysis
 
-## Colonial pipeline
+### Colonial pipeline
 
-## Axios/npm supply chain attack
+### Axios/npm supply chain attack
 
-## Discord age verification and user data access
+### Discord age verification and user data access
 
-## Home Assistant server
+### Home Assistant server
 
 
 <!--
