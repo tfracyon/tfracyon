@@ -1,8 +1,8 @@
-### About me
+## About me
 
 Information Technology student concentrating in Cybersecurity
 
-### Projects
+## Projects
 # Collection of collegiate and personal ongoing cybersecurity projects and reports
 
 ##Collegiate 
