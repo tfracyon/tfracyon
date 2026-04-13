@@ -47,7 +47,7 @@ Information Technology student concentrating in Cybersecurity
 
 ## Discord age verification and user data access
 
-
+## Home Assistant server
 
 
 <!--
