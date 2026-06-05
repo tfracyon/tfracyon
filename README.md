@@ -13,7 +13,9 @@ uploading will commense once licenced gmu materials are properly removed/formatt
 
 ### GMU IT Capstone
 <img src="https://github.com/tfracyon/tfracyon/blob/c4e4b446eb06eca26fd1536dd0a57b9cbd57e9b2/images/Capstone1.png" width="200">
-![Capstone2](https://github.com/tfracyon/tfracyon/blob/ca1365db9a3d2597b4ae1f79c02a11fc9fb87012/Capstone2.png)
+<img src="https://github.com/tfracyon/tfracyon/blob/ca1365db9a3d2597b4ae1f79c02a11fc9fb87012/Capstone2.png" width="200">
+
+
 ### LAMP stack documentation
 
 ### Stuxnet
