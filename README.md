@@ -12,7 +12,7 @@ Connect with me on linkedin! [www.linkedin.com/in/troy-fracyon]
 uploading will commense once licenced gmu materials are properly removed/formatted
 
 ### GMU IT Capstone
-![image alt]([https://github.com/tfracyon/tfracyon/blob/c3e6c873742f006d9cebe362212b708b5f141d8b/Capstone1.png](https://github.com/tfracyon/tfracyon/blob/c4e4b446eb06eca26fd1536dd0a57b9cbd57e9b2/images/Capstone1.png)) ![image alt](https://github.com/tfracyon/tfracyon/blob/24e9e19d6eb449a0fc972aa7e2f48bd27ee66e6a/Capstone2.png)
+![image alt](https://github.com/tfracyon/tfracyon/blob/c4e4b446eb06eca26fd1536dd0a57b9cbd57e9b2/images/Capstone1.png) ![image alt](https://github.com/tfracyon/tfracyon/blob/24e9e19d6eb449a0fc972aa7e2f48bd27ee66e6a/Capstone2.png)
 ### LAMP stack documentation
 
 ### Stuxnet
