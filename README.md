@@ -12,7 +12,7 @@ Connect with me on linkedin! [www.linkedin.com/in/troy-fracyon]
 uploading will commense once licenced gmu materials are properly removed/formatted
 
 ### GMU IT Capstone
-![image alt](https://github.com/tfracyon/tfracyon/blob/c4e4b446eb06eca26fd1536dd0a57b9cbd57e9b2/images/Capstone1.png) width="100px"
+![image alt](https://github.com/tfracyon/tfracyon/blob/c4e4b446eb06eca26fd1536dd0a57b9cbd57e9b2/images/Capstone1.png) 
 ![image alt](https://github.com/tfracyon/tfracyon/blob/ca1365db9a3d2597b4ae1f79c02a11fc9fb87012/Capstone2.png)
 ### LAMP stack documentation
 
