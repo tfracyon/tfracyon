@@ -8,6 +8,8 @@ Information Technology student concentrating in Cybersecurity
 # Collegiate 
 uploading will commense once licenced gmu materials are properly removed/formatted
 
+### GMU IT Capstone
+
 ### LAMP stack documentation
 
 ### Stuxnet
@@ -38,6 +40,9 @@ uploading will commense once licenced gmu materials are properly removed/formatt
 
 
 # Personal
+
+### SEIM
+
 ### Darkhourse Malware analysis
 
 ### Stryker vendor analysis
@@ -49,6 +54,8 @@ uploading will commense once licenced gmu materials are properly removed/formatt
 ### Discord age verification and user data access
 
 ### Home Assistant server
+
+### PiHole server
 
 
 <!--
