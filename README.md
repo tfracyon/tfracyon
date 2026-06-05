@@ -1,6 +1,9 @@
 ## About me
 
-Information Technology student concentrating in Cybersecurity
+Graduate from George Mason University B.S. Information Technology Concentration in Cybersecurity.
+Found below is my IT Cybersecurity portfolio consisting of various projects completed in my time as a student as well as personal cybersecurity projects, documentations, and labs.
+
+Connect with me on linkedin! [www.linkedin.com/in/troy-fracyon]
 
 # Projects
 ## Collection of collegiate and personal ongoing cybersecurity projects and reports
