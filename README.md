@@ -46,7 +46,6 @@ uploading will commense once licenced gmu materials are properly removed/formatt
 
 # Personal
 
-### SEIM
 
 ### Darkhourse Malware analysis
 
