@@ -31,7 +31,7 @@ uploading will commense once licenced gmu materials are properly removed/formatt
 
 ### Digital Media Analysis
 
-### [Email Header Analysis](Colligate Projects/Email Header Analysis Lab tfracyon.pdf)
+### (Email Header Analysis)[Colligate Projects/Email Header Analysis Lab tfracyon.pdf]
 
 ### Cyber Threat Intelligence
 
