@@ -31,7 +31,7 @@ uploading will commense once licenced gmu materials are properly removed/formatt
 
 ### Digital Media Analysis
 
-### Email Header Analysis
+### [Email Header Analysis]()
 
 ### Cyber Threat Intelligence
 
@@ -46,7 +46,7 @@ uploading will commense once licenced gmu materials are properly removed/formatt
 
 # Personal
 
-###SIEM SOAR AI
+### SIEM SOAR AI
 ### Darkhourse Malware analysis
 
 ### Stryker vendor analysis
