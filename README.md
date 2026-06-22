@@ -23,7 +23,7 @@ uploading will commense once licenced gmu materials are properly removed/formatt
 
 ### [Vulnribility Assesment](https://github.com/tfracyon/tfracyon/blob/033aed2074001b4e0d221d031b8f4e2378529f8e/Colligate%20Projects/Vulnerability%20Assessment.pdf)
 
-### Risk Management Framework
+### [Risk Management Framework](https://github.com/tfracyon/tfracyon/blob/3f652a3da9db6b88f050f7bf6a10d0a73fa2d170/Colligate%20Projects/Risk%20Management%20Framework.docx.pdf)
 
 ### [NIST & FIPS Analysis](https://github.com/tfracyon/tfracyon/blob/b6ea5ac5d6f543e1f708355f961a8efa8add0b8d/Colligate%20Projects/NIST_FIPS%20Analysis.pdf)
 
