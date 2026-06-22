@@ -25,7 +25,7 @@ uploading will commense once licenced gmu materials are properly removed/formatt
 
 ### Risk Management Framework
 
-### [NIST/FIPS Analysis](https://github.com/tfracyon/tfracyon/blob/b6ea5ac5d6f543e1f708355f961a8efa8add0b8d/Colligate%20Projects/NIST_FIPS%20Analysis.pdf)
+### [NIST & FIPS Analysis](https://github.com/tfracyon/tfracyon/blob/b6ea5ac5d6f543e1f708355f961a8efa8add0b8d/Colligate%20Projects/NIST_FIPS%20Analysis.pdf)
 
 ### Access Controls
 
