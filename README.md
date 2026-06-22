@@ -21,7 +21,7 @@ uploading will commense once licenced gmu materials are properly removed/formatt
 
 ### Malware analysis
 
-### Vulnribility Assesment
+### [Vulnribility Assesment](https://github.com/tfracyon/tfracyon/blob/033aed2074001b4e0d221d031b8f4e2378529f8e/Colligate%20Projects/Vulnerability%20Assessment.pdf)
 
 ### Risk Management Framework
 
