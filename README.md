@@ -47,8 +47,10 @@ uploading will commense once licenced gmu materials are properly removed/formatt
 
 
 # Personal
+## GRC
+## SOC
+### 
 
-### SIEM SOAR AI
 ### Darkhourse Malware analysis
 
 ### Stryker vendor analysis
@@ -58,6 +60,8 @@ uploading will commense once licenced gmu materials are properly removed/formatt
 ### Axios/npm supply chain attack
 
 ### Discord age verification and user data access
+
+## Servers
 
 ### Home Assistant server
 
