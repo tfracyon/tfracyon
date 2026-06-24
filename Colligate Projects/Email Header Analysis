@@ -1,1 +1,94 @@
+Applied Cyber Threat Analysis – Email Header Analysis Lab
+This lab was conducted within the Virginia Cyber Range Environment.
+
+Report based off assignment assigned by George Mason University - Department of Information Sciences and Technology College of Engineering and Computing
+
+Cheche Agada. (2024). Email Header Analysis Lab IT-462: Applied Cyber Threat Analysis, George Mason University
+
+
+
+
+Background
+The purpose behind this analysis lab is to collect and identify email header information in order to infer if the email in question is malicious in nature.
+ 
+Exercise 1
+What is the Message-ID of the email?
+
+
+The message-id of the email is identified as: bh=j9mK1OhAKWARs8J8JJkBU5oBEJkOkHngE11dx8Hp+nQ=
+
+
+
+
+
+What is the Return-Path of the email?
+
+
+
+
+
+
+
+
+
+The Return-Path of this email is identified as:  communication@ccrlp.fr
+
+What email address was this email sent to?
+
+The email address was sent to: talaria2.gmu.edu or caduceus2.gmu.edu
+
+What is the X-Sender IP address?
+
+
+
+X-SENDER-IP: 109.69.192.223
+What is the X-Sender-Reputation of the email?
+
+
+
+
+SENDER-REPUTATION: 3.5
+What does the X-Sender-Reputation mean?
+The sender reputation is a calculation based on if the sender has sent spam emails or has a low response rate. It is used to determine the validity of the sender or the messages they send.
+
+What is the name and IP address of the first server to process the email?
+
+
+
+
+
+
+
+Received: from SRV-MAIL.ccrlp.local ([fe80::29bd:50d4:8ee6:5150]) by SRV-MAIL.ccrlp.local([fe80::29bd:50d4:8ee6:5150%12]) with map id 15.01.2507.017; Sun, 5 Feb 2023 13:30:19 +0100
+
+
+What is the subject of the email?
+
+
+
+
+
+
+Subject: FW: Vital--!!! Thread-Topic: Vital--!!!
+
+
+
+What email address does the sender want the receiver to respond to?
+
+
+
+
+The email designed to be responded to is: drvic341@gmail.com 
+
+Provide a possible reason for the sender choosing this email address.
+ The sender is choosing this secondary email to avoid getting flagged by the spam filter. This method is also to prevent the recipient from reporting the directed email.
+
+Can you find the address of the GMU student who received the email? Why or why not?
+It could be either talaria2.gmu.edu or caduceus2.gmu.edu. If it is neither of them, it is because the antispam email had intercepted the message and redirected the email to a spam vault. 
+
+Who is the sender of the email?
+
+
+From: COMMUNICATION - CCRLP <communication@ccrlp.fr> To:
+"in@ccrlp.fr" <in@ccrlp.fr>
 
