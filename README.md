@@ -46,7 +46,7 @@ Connect with me on linkedin! [www.linkedin.com/in/troy-fracyon]
 
 ### SIEM
 
-### Darkhourse Malware analysis
+### Darksword Malware analysis
 
 ### Stryker vendor analysis
 
