@@ -8,7 +8,6 @@ Connect with me on linkedin! [www.linkedin.com/in/troy-fracyon]
 # Projects
 ## Collection of collegiate and personal ongoing cybersecurity projects and reports
  
-
 ### GMU IT Capstone
 <img src="https://github.com/tfracyon/tfracyon/blob/c4e4b446eb06eca26fd1536dd0a57b9cbd57e9b2/images/Capstone1.png" width="400">  <img src="https://github.com/tfracyon/tfracyon/blob/ca1365db9a3d2597b4ae1f79c02a11fc9fb87012/Capstone2.png" width="400">
 
