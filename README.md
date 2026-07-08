@@ -7,19 +7,12 @@ Connect with me on linkedin! [www.linkedin.com/in/troy-fracyon]
 
 # Projects
 ## Collection of collegiate and personal ongoing cybersecurity projects and reports
-
-# Collegiate 
-uploading will commense once licenced gmu materials are properly removed/formatted
+ 
 
 ### GMU IT Capstone
 <img src="https://github.com/tfracyon/tfracyon/blob/c4e4b446eb06eca26fd1536dd0a57b9cbd57e9b2/images/Capstone1.png" width="400">  <img src="https://github.com/tfracyon/tfracyon/blob/ca1365db9a3d2597b4ae1f79c02a11fc9fb87012/Capstone2.png" width="400">
 
-
-### LAMP stack documentation
-
 ### [Stuxnet](https://github.com/tfracyon/tfracyon/blob/802055db891f3c083b92edd3d60351c462610a8a/Colligate%20Projects/HW3%20Stuxnet.pdf)
-
-### Malware analysis
 
 ### [Vulnribility Assesment](https://github.com/tfracyon/tfracyon/blob/033aed2074001b4e0d221d031b8f4e2378529f8e/Colligate%20Projects/Vulnerability%20Assessment.pdf)
 
@@ -27,13 +20,20 @@ uploading will commense once licenced gmu materials are properly removed/formatt
 
 ### [NIST & FIPS Analysis](https://github.com/tfracyon/tfracyon/blob/b6ea5ac5d6f543e1f708355f961a8efa8add0b8d/Colligate%20Projects/NIST_FIPS%20Analysis.pdf)
 
+### [Email Header Analysis](https://github.com/tfracyon/tfracyon/blob/ae5d87c244ae41b2c9260902bc2b62d828d46a9a/Colligate%20Projects/Email%20Header%20Analysis%20Lab%20tfracyon.pdf)
+
+
+
+# In Progress
+### LAMP stack documentation
+
+### Malware analysis
+
 ### Access Controls
 
 ### Cryptogrophy
 
 ### Digital Media Analysis
-
-### [Email Header Analysis](https://github.com/tfracyon/tfracyon/blob/ae5d87c244ae41b2c9260902bc2b62d828d46a9a/Colligate%20Projects/Email%20Header%20Analysis%20Lab%20tfracyon.pdf)
 
 ### Cyber Threat Intelligence
 
@@ -45,11 +45,7 @@ uploading will commense once licenced gmu materials are properly removed/formatt
 
 ### YARA
 
-
-# Personal
-## GRC
-## SOC
-### 
+### SIEM
 
 ### Darkhourse Malware analysis
 
