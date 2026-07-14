@@ -21,7 +21,7 @@ Connect with me on linkedin! [www.linkedin.com/in/troy-fracyon]
 
 ### [Email Header Analysis](https://github.com/tfracyon/tfracyon/blob/ae5d87c244ae41b2c9260902bc2b62d828d46a9a/Colligate%20Projects/Email%20Header%20Analysis%20Lab%20tfracyon.pdf)
 
-
+### [YARA Rules](https://github.com/tfracyon/tfracyon/blob/4058d79f793e5b100980378fe79e339f55faf857/Colligate%20Projects/Yara%20Lab%20tfracyon1.pdf)
 
 # In Progress
 ### LAMP stack documentation
@@ -42,7 +42,7 @@ Connect with me on linkedin! [www.linkedin.com/in/troy-fracyon]
 
 ### ATP34 documents
 
-### YARA
+
 
 ### SIEM
 
