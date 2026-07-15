@@ -25,6 +25,8 @@ Connect with me on linkedin! [www.linkedin.com/in/troy-fracyon]
 
 ### [Windows Log Analysis](https://github.com/tfracyon/tfracyon/blob/05e322d36703891a9bc9469df8fba10a6e845280/Colligate%20Projects/Windows%20Log%20Analysis%20Exercise%20tfracyon.pdf)
 
+### [Network Traffic Analysis](https://github.com/tfracyon/tfracyon/blob/fb0968ae64820f25354c9bfe9c88d50d633cb66a/Colligate%20Projects/Network%20Traffic%20Analysis%20Lab%20tfracyon.pdf)
+
 # In Progress
 ### LAMP stack documentation
 
@@ -39,8 +41,6 @@ Connect with me on linkedin! [www.linkedin.com/in/troy-fracyon]
 ### Cyber Threat Intelligence
 
 ### NMAP/Nessus project
-
-### Network Traffic Analysis
 
 ### ATP34 documents
 
