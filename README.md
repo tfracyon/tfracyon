@@ -50,9 +50,9 @@ Connect with me on linkedin! [www.linkedin.com/in/troy-fracyon]
 
 ### Darksword Malware analysis
 
-### Stryker vendor analysis
+### Stryker hack analysis
 
-### Colonial pipeline
+### Colonial pipeline attack
 
 ### Axios/npm supply chain attack
 
