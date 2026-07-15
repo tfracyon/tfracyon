@@ -23,6 +23,8 @@ Connect with me on linkedin! [www.linkedin.com/in/troy-fracyon]
 
 ### [YARA Rules](https://github.com/tfracyon/tfracyon/blob/4058d79f793e5b100980378fe79e339f55faf857/Colligate%20Projects/Yara%20Lab%20tfracyon1.pdf)
 
+### [Windows Log Analysis](https://github.com/tfracyon/tfracyon/blob/05e322d36703891a9bc9469df8fba10a6e845280/Colligate%20Projects/Windows%20Log%20Analysis%20Exercise%20tfracyon.pdf)
+
 # In Progress
 ### LAMP stack documentation
 
