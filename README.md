@@ -29,10 +29,12 @@ Connect with me on linkedin! [www.linkedin.com/in/troy-fracyon]
 
 ### [Digital Media Analysis](https://github.com/tfracyon/tfracyon/blob/0b9e57e65fc15252ab798567d867ef40b57f968d/Colligate%20Projects/Digital%20Media%20Analysis%20Lab%20tfracyon.pdf)
 
+### [Malware analysis](https://github.com/tfracyon/tfracyon/blob/770a27ad0862e0586374d517289e6bbd14bef3b6/Colligate%20Projects/Malware%20Analysis%20Lab%20tfracyon.pdf)
+
 # In Progress
 ### LAMP stack documentation
 
-### Malware analysis
+
 
 ### Access Controls
 
