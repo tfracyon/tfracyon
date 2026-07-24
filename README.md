@@ -33,11 +33,13 @@ Connect with me on linkedin! [www.linkedin.com/in/troy-fracyon]
 
 ### [Access Controls](https://github.com/tfracyon/tfracyon/blob/b82ba48c35657e36bd5718e148bc69773866b336/Colligate%20Projects/Access%20Control%20Labtfracyon.pdf)
 
+### [Cryptogrophy](https://github.com/tfracyon/tfracyon/blob/94bd9472ca8b5765183b2c3f6cb9a8b8f0f806b8/Colligate%20Projects/Cryptography%20Lab%20tfracyon.pdf)
+
 
 # In Progress
 ### LAMP stack documentation
 
-### Cryptogrophy
+
 
 ### Cyber Threat Intelligence
 
