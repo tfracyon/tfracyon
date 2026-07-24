@@ -31,12 +31,11 @@ Connect with me on linkedin! [www.linkedin.com/in/troy-fracyon]
 
 ### [Malware analysis](https://github.com/tfracyon/tfracyon/blob/770a27ad0862e0586374d517289e6bbd14bef3b6/Colligate%20Projects/Malware%20Analysis%20Lab%20tfracyon.pdf)
 
+### [Access Controls](https://github.com/tfracyon/tfracyon/blob/b82ba48c35657e36bd5718e148bc69773866b336/Colligate%20Projects/Access%20Control%20Labtfracyon.pdf)
+
+
 # In Progress
 ### LAMP stack documentation
-
-
-
-### Access Controls
 
 ### Cryptogrophy
 
