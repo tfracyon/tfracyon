@@ -35,15 +35,14 @@ Connect with me on linkedin! [www.linkedin.com/in/troy-fracyon]
 
 ### [Cryptogrophy](https://github.com/tfracyon/tfracyon/blob/94bd9472ca8b5765183b2c3f6cb9a8b8f0f806b8/Colligate%20Projects/Cryptography%20Lab%20tfracyon.pdf)
 
+### [NMAP/Nessus project](https://github.com/tfracyon/tfracyon/blob/1ede020ab6ad6f322bd69fc109a0105cd03331d4/Colligate%20Projects/Nmap_Nessus%20Project%20tfracyon.pdf)
+
 
 # In Progress
+
 ### LAMP stack documentation
 
-
-
 ### Cyber Threat Intelligence
-
-### NMAP/Nessus project
 
 ### ATP34 documents
 
