@@ -27,6 +27,8 @@ Connect with me on linkedin! [www.linkedin.com/in/troy-fracyon]
 
 ### [Network Traffic Analysis](https://github.com/tfracyon/tfracyon/blob/d7de954d28dfb3ec4951ddb4b62b55be34893f7b/Colligate%20Projects/Network%20Traffic%20Analysis%20Lab%20tfracyon-1.pdf)
 
+### [Digital Media Analysis](https://github.com/tfracyon/tfracyon/blob/0b9e57e65fc15252ab798567d867ef40b57f968d/Colligate%20Projects/Digital%20Media%20Analysis%20Lab%20tfracyon.pdf)
+
 # In Progress
 ### LAMP stack documentation
 
@@ -36,15 +38,11 @@ Connect with me on linkedin! [www.linkedin.com/in/troy-fracyon]
 
 ### Cryptogrophy
 
-### Digital Media Analysis
-
 ### Cyber Threat Intelligence
 
 ### NMAP/Nessus project
 
 ### ATP34 documents
-
-
 
 ### SIEM
 
